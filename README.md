@@ -1,6 +1,6 @@
 # Project_2-Coin_Sorter_App
 
-IN4.0 Group Capstone Project 2 - Collaborated with Georgios Evangelinos
+IN4.0 Group Capstone Project 2 - Collaborated with Georgios Evangelinos during this project. My contributions was the Process Design, Development and Test Plan. 
 
 Part 1:
 You are required to develop a coin sorting program, using Pound sterling (£) as the default currency. Note: 1 pound is equal to 100 pennies e.g. £1 = 100p.
